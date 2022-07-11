@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Haily, and I'm a dual PhD student at Indiana University in Informatics and Cognitive Science. I use computational methods (like network analyses and dynamical models) to study how brains calibrate to the social environment. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before grad school, I managed a neuroecology lab at Cornell. As an undergrad, I studied Cognitive Science, Linguistics, and Central Eurasian Studies at Indiana.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of academia, I love reading, painting, and gardening.
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you want to get in touch, my email is halamerr @ indiana . edu
