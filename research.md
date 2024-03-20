@@ -9,7 +9,7 @@ I am interested in the origins and consequences of sociality with an emphasis on
 To approach this multi-faceted phenomenon, I pursue two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Below you'll find a selection of some of my work, with highlights of the projects I led myself :)
 
 
-### Related to Network Neuroscience
+## Related to Network Neuroscience
 **Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (In prep). Social Experience Defines Hierarchical and Dynamic Envirotypes with Dissociable Functional Brain Network Organization.
 
 **Highlights of Merritt et al.:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across these two focal envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. Only the stable and unstable envirotypes differed on any of the outcome measures, with the unstable envirotype showing a strong association with externalizing behaviors.
@@ -41,7 +41,7 @@ Esfahlani, F.Z., Jo, Y., Puxeddu, M.G., **Merritt, H.**, Tanner, J.C., Greenwell
 
 
 
-### Related to Artificial Life
+## Related to Artificial Life
 **Merritt, H.**, Severino, G.J., & Izquierdo, E.J. (In prep). There Are Many Ways to Be Social: Characterizing Behavioral and Neural Dynamic Diversity of Virtual Social Agents.
 
 **Highlights of Merritt et al.:** The perceptual crossing paradigm challenges methodological individualism by demonstrating that successful interactions cannot be explained by the behavior or neural dynamics of the individual. Here, we investigate the diversity of individual behavioral strategies and neural dynamics that are a part of successful interactions in evolved social agents. 
@@ -59,7 +59,7 @@ Izquierdo, E., Severino, G., & **Merritt, H.** (2022). Perpetual Crossers withou
 
 
 
-### Notable Collaborations
+## Notable Collaborations
 Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (2024). Tipping Points of Space Debris in Low Earth Orbit. International Journal of the Commons, 18(1), 17-31. DOI: 10.5334/ijc.1275. [Link to PDF:](https://thecommonsjournal.org/articles/10.5334/ijc.1275)
 
 Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (Submitted). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.![image](https://github.com/h-merritt/h-merritt.github.io/assets/49077893/73d78d2c-b7c1-49ca-aa48-0046be71b963)
