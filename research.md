@@ -62,8 +62,8 @@ Izquierdo, E., Severino, G., & **Merritt, H.** (2022). Perpetual Crossers withou
 ## Notable Collaborations
 Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (2024). Tipping Points of Space Debris in Low Earth Orbit. International Journal of the Commons, 18(1), 17-31. DOI: 10.5334/ijc.1275. [Link to PDF:](https://thecommonsjournal.org/articles/10.5334/ijc.1275)
 
-Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (Submitted). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.![image](https://github.com/h-merritt/h-merritt.github.io/assets/49077893/73d78d2c-b7c1-49ca-aa48-0046be71b963)
+Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (Submitted). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.
 
-Koch, M.K., **Merritt, H.**, & Mendle, J. (In prep). Sanitized and sexualized: Puberty according to youth, ChatGPT, and television. ![image](https://github.com/h-merritt/h-merritt.github.io/assets/49077893/ee7babaf-48c0-4d82-bab1-73b8a978f8ee)
+Koch, M.K., **Merritt, H.**, & Mendle, J. (In prep). Sanitized and sexualized: Puberty according to youth, ChatGPT, and television. 
 
 
