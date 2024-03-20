@@ -28,7 +28,7 @@ twitter_username: HailyMerritt
 github_username:  h-merritt
 
 # Build settings
-theme: minima
+theme: hacker
 #plugins:
 #  - jekyll-feed
 
