@@ -28,9 +28,11 @@ twitter_username: HailyMerritt
 github_username:  h-merritt
 
 # Build settings
-theme: hacker
 #plugins:
 #  - jekyll-feed
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
