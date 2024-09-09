@@ -2,6 +2,7 @@
 layout: page
 title: research
 permalink: /research/
+order: 2
 ---
 
 I am interested in the origins and neural consequences of sociality with an emphasis on experience, environment, interaction, and dynamics. 
