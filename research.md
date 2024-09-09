@@ -11,7 +11,7 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 
 
 ## Related to Network Neuroscience
-![image](brain_networks_env_variation_ricksversion.png)
+![image](netneuro_schematic.png)
 **Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (In prep). Social Experience Defines Hierarchical and Dynamic Envirotypes with Dissociable Functional Brain Network Organization.
 
 * **Highlights of Merritt et al.:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across these two focal envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. Only the stable and unstable envirotypes differed on any of the outcome measures, with the unstable envirotype showing a strong association with externalizing behaviors.
