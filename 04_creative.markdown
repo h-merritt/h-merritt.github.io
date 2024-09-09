@@ -7,7 +7,11 @@ order: 4
 
 When I'm not experimenting in a scientific way, I enjoy experimenting creatively with paints and ink and charcoal. Here are a few projects, beware I took these pictures with my phone :)
 
-{::nomarkdown}<img src="tenderreaperi.png">{:/}
+ <ul>
+<li  markdown="1">
+![Logo Jekyll](tenderreaperi.png)
+</li>
+</ul>
 
 _Garden of Death, for Zoe_ (2023). acrylic & paper on canvas
 
