@@ -46,6 +46,7 @@ Esfahlani, F.Z., Jo, Y., Puxeddu, M.G., **Merritt, H.**, Tanner, J.C., Greenwell
 
 
 ## Related to Artificial Life
+![image](bbe_schematic.png)
 **Merritt, H.**, Severino, G.J., & Izquierdo, E.J. (In prep). There Are Many Ways to Be Social: Characterizing Behavioral and Neural Dynamic Diversity of Virtual Social Agents.
 
 * **Highlights of Merritt et al.:** The perceptual crossing paradigm challenges methodological individualism by demonstrating that successful interactions cannot be explained by the behavior or neural dynamics of the individual. Here, we investigate the diversity of individual behavioral strategies and neural dynamics that are a part of successful interactions in evolved social agents. 
