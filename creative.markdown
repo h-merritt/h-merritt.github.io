@@ -9,7 +9,7 @@ When I'm not experimenting in a scientific way, I enjoy experimenting creatively
 
 ![image](tenderreaperi.png)
 
-_Garden of Death_ (2023). acrylic & paper on canvas
+_Garden of Death, for Zoe_ (2023). acrylic & paper on canvas
 
 
 
