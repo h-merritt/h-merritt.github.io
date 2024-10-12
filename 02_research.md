@@ -5,7 +5,7 @@ permalink: /research/
 order: 2
 ---
 
-I am interested in the origins and neural consequences of sociality with an emphasis on experience, environment, interaction, and dynamics. 
+I am interested in the origins and consequences of sociality with an emphasis on experience, environment, interaction, and dynamics. 
 
 To approach this multi-faceted phenomenon, I pursue two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
 
