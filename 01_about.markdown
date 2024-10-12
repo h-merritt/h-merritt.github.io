@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-My name is Haily, and I am a first-generation, queer multidisciplinary scientist with training spanning the humanities, social sciences, life sciences, and computational sciences. 
+My name is Haily, and I am a first-generation, queer multidisciplinary scientist with training spanning the humanities, social sciences, life sciences, and computational sciences. My work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences.
 
 I am a dual PhD candidate at Indiana University in Informatics (Complex Networks and Systems track) and Cognitive Science. I use a lot of math to show why our brains care about having quality relationships. This takes two forms: On the one hand, I apply cutting edge techniques from network science to characterize how brain network organization varies across social environments over developmental time. I also link this variation to different outcomes for mental health, cognition, social behavior, and life experiences. On the other hand, I build minimal models of social interaction to understand the foundations of sociality. This line of work involves methodology from evolutionary robotics, artificial neural networks, dynamical systems theory, information theory, and social psychology. In combining these two forms of research, I aim to build a comprehensive narrative of the centrality of sociality for our wellbeing.  
 
