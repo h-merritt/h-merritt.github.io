@@ -7,7 +7,7 @@ order: 4
 
 When I'm not experimenting in a scientific way, I enjoy experimenting creatively with oil & acrylic paints, ink, graphite, and miscellaneous things. Here are a few projects, but beware I took these pictures with my phone :)
 
-![Garden of Death](tenderreaperi.png)
+![](tenderreaperi.png "Garden of Death")
 
 _Garden of Death, for Zoe_ (2023). acrylic & paper on canvas
 
