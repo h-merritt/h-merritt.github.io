@@ -12,24 +12,32 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 
 ## Related to Network Neuroscience
 ![image](netneuro_schematic.png)
-**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (2024). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
+**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (In Review). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
 
 * **Highlights of Merritt et al., 2024:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. The outcomes of the stable envirotype were most easily distinguished from those of the improving envirotype, while the unstable envirotype had the worst outcomes.
 
 
-**Merritt, H.**, Mejia, A., & Betzel, R.F. (2024). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
+**Merritt, H.**, Mejia, A., & Betzel, R.F. (In Review). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. iScience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
 
 * **Highlights of Merritt et al., 2024:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
 
 
+**Merritt, H.**, Rakesh, D., & Betzel, R.F. (Commissioned, In Prep). A Network Neuroscience of Social Support. Trends in Cognitive Science.
+
+* **Highlights of Merritt, Rakesh, & Betzel:** We outline how brain network organization varies across different social environments, with an eye toward cutting edge methodological techniques that clarify the consequences of this variation for studying human health, behavior, and cognition.
+
+
+**Merritt, H.**, Hughes, C., French, R., Betzel, R.F., & Krendl, A. (In Prep). Multivariate associations between social environment and functional connectivity in older adults.
+
+* **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults.
+  
+
 **Merritt, H.**, Lewis, G., & Betzel, R.F. (In prep). Implications of Human Sociality for Neuroscience.
 
-* **Highlights of Merritt et al.:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for a shift in perspective that centers sociality. 
+* **Highlights of Merritt et al.:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for a shift in perspective that centers sociality.
 
 
-**Merritt, H.** & Betzel, R.F. (Submitted). A Network Neuroscience of Social Support. Nature Reviews Neuroscience.
-
-* **Highlights of Merritt & Betzel:** We outline how brain network organization varies across different social environments, with an eye toward cutting edge methodological techniques that clarify the consequences of this variation for studying human health, behavior, and cognition.
+French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Prep). Naturalistic theory of mind measurement localized neural activity and connectivity within single model framework.
 
 
 **Merritt, H.**, Faskowitz, J., Gonzalez, M.Z., & Betzel, R.F. (2024). Stability and variation of brain-behavior correlation patterns across measures of social support. Imaging Neuroscience. [Link to PDF](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00133/120372). [Preprint](https://doi.org/10.1101/2023.03.23.533966)
