@@ -5,9 +5,9 @@ permalink: /research/
 order: 2
 ---
 
-I am interested in the origins and consequences of sociality with an emphasis on experience, environment, interaction, and dynamics. 
+I am interested in the origins and outcomes of sociality with an emphasis on experience, environment, interaction, and dynamics. My work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences. 
 
-To approach this multi-faceted phenomenon, I pursue two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
+To approach this multi-faceted phenomenon, I pursue two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Across both angles, I aim to innovate on existing methods to more effectively answer my research questions. Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
 
 
 ## Related to Network Neuroscience
@@ -75,8 +75,10 @@ Izquierdo, E., Severino, G., & **Merritt, H.** (2022). Perpetual Crossers withou
 ## Notable Collaborations
 Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (2024). Tipping Points of Space Debris in Low Earth Orbit. International Journal of the Commons, 18(1), 17-31. DOI: 10.5334/ijc.1275. [Link to PDF](https://thecommonsjournal.org/articles/10.5334/ijc.1275)
 
-Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (Submitted). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.
+Poetto, S., **Merritt, H.**, Saggar, M., Rabuffo, G., Battaglia, D., Vaccarino, F., & Petri, G. (In Prep). Topological scaffolds outperform functional connectivity in brain fingerprinting.
 
-Koch, M.K., **Merritt, H.**, & Mendle, J. (In prep). Sanitized and sexualized: Puberty according to youth, ChatGPT, and television. 
+Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (In Review). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.
+
+Koch, M.K., **Merritt, H.**, & Mendle, J. (In Review). Sanitized and sexualized: Text Comparison of Puberty in ChatGPT, Television, and Youth. Journal of Youth and Adolescence.
 
 
