@@ -12,7 +12,7 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 
 ## Related to Network Neuroscience
 ![image](netneuro_schematic.png)
-**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (In Review). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
+**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (2024). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
 
 * **Highlights of Merritt et al., 2024:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. The outcomes of the stable envirotype were most easily distinguished from those of the improving envirotype, while the unstable envirotype had the worst outcomes.
 
@@ -22,7 +22,7 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 * **Highlights of Merritt et al., 2024:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
 
 
-**Merritt, H.**, Rakesh, D., & Betzel, R.F. (Commissioned, In Prep). A Network Neuroscience of Social Support. Trends in Cognitive Science.
+**Merritt, H.**, Rakesh, D., & Betzel, R.F. (In Review). Connection & Context: The Neural Architecture of Social Relationships. Trends in Cognitive Science.
 
 * **Highlights of Merritt, Rakesh, & Betzel:** We outline how brain network organization varies across different social environments, with an eye toward cutting edge methodological techniques that clarify the consequences of this variation for studying human health, behavior, and cognition.
 
@@ -35,6 +35,8 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 **Merritt, H.**, Lewis, G., & Betzel, R.F. (In prep). Implications of Human Sociality for Neuroscience.
 
 * **Highlights of Merritt et al.:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for a shift in perspective that centers sociality.
+
+* Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint][https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf]
 
 
 French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Prep). Naturalistic theory of mind measurement localized neural activity and connectivity within single model framework.
@@ -75,9 +77,7 @@ Izquierdo, E., Severino, G., & **Merritt, H.** (2022). Perpetual Crossers withou
 ## Notable Collaborations
 Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (2024). Tipping Points of Space Debris in Low Earth Orbit. International Journal of the Commons, 18(1), 17-31. DOI: 10.5334/ijc.1275. [Link to PDF](https://thecommonsjournal.org/articles/10.5334/ijc.1275)
 
-Poetto, S., **Merritt, H.**, Saggar, M., Rabuffo, G., Battaglia, D., Vaccarino, F., & Petri, G. (In Prep). Topological scaffolds outperform functional connectivity in brain fingerprinting.
-
-Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (In Review). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Child Development.
+Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (2025). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Journal of Research on Adolescence.
 
 Koch, M.K., **Merritt, H.**, & Mendle, J. (In Review). Sanitized and sexualized: Text Comparison of Puberty in ChatGPT, Television, and Youth. Journal of Youth and Adolescence.
 
