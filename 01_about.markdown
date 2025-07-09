@@ -18,4 +18,4 @@ Before graduate school, I managed a social neuroecology lab at Cornell Universit
 
 Outside of academia, I love reading, painting, and gardening.
 
-If you want to get in touch, my email is h.merritt @ nulondon . ac . edu
+If you want to get in touch, my email is h.merritt @ nulondon . ac . uk
