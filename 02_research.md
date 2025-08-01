@@ -38,7 +38,7 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 
 * **Highlights of Merritt et al.:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for a shift in perspective that centers sociality.
 
-* Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint][https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf]
+Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint][https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf]
 
 
 French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Review). Naturalistic theory of mind measurement localized neural activity and connectivity within single model framework. Network Neuroscience
