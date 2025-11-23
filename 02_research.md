@@ -5,9 +5,9 @@ permalink: /research/
 order: 2
 ---
 
-I am interested in the origins and outcomes of sociality with an emphasis on experience, environment, interaction, and dynamics. My work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences. 
+I am interested in the origins and outcomes of sociality with an emphasis on experience, environment, interaction, and dynamics. To address this, my work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences. In practice, this looks like pursuing two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan (and I assess the consequences of this variation) using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction and behavior with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Across both angles, I aim to innovate on existing methods to more effectively answer my research questions. 
 
-To approach this multi-faceted phenomenon, I pursue two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Across both angles, I aim to innovate on existing methods to more effectively answer my research questions. Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
+Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
 
 
 ## Related to Network Neuroscience
@@ -24,9 +24,9 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 * **Highlights of Merritt et al., 2024:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power for behavior above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
 
 
-**Merritt, H.**, Rakesh, D., & Betzel, R.F. (In Review). Connection & Context: The Neural Architecture of Social Relationships. Trends in Cognitive Science.
+**Merritt, H.**, Rakesh, D., & Betzel, R.F. (In Review). Connection & Context: The Neural Architecture of Social Relationships. Neuroscience and Biobehavioral Reviews. [Link to preprint](https://osf.io/preprints/psyarxiv/xvgez_v1)
 
-* **Highlights of Merritt, Rakesh, & Betzel:** We outline how brain network organization varies across different social relationship experiences, with an eye toward cutting edge methodological techniques that clarify the consequences of this variation for studying human health, behavior, and cognition.
+* **Highlights of Merritt, Rakesh, & Betzel:** We synthesize research across network neuroscience, social neuroscience, and neuroecology to characterize how brain network organization varies across interpersonal social experience. We propose two intersecting mechanistic pathways by why different brain network organization is observed across contexts. An important consequence of this variation across social experience is that the brain network organization that is associated with better (mental) health can look different in different environments. 
 
 
 **Merritt, H.**, Hughes, C., French, R., Betzel, R.F., & Krendl, A. (In Prep). Multivariate associations between social environment and functional connectivity in older adults.
@@ -34,9 +34,15 @@ To approach this multi-faceted phenomenon, I pursue two angles of research simul
 * **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults, disentangling the different neural associations of more subjective and more objective social measures.
   
 
-**Merritt, H.**, Lewis, G., & Betzel, R.F. (In prep). Implications of Human Sociality for Neuroscience.
+**Merritt, H.**. (In prep). From Interconnection to Interdependence: Toward a Radical Social Neuroscience.
 
-* **Highlights of Merritt et al.:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for a shift in perspective that centers sociality.
+* **Highlights of Merritt:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for an ontological and methodological shift in perspective from interconnection (i.e., the links between individuals) to interdependence (i.e., while people may be distinguishable we are not separate).
+  
+
+**Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Social environment dynamics exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
+
+* **Highlights of Merritt et al.:** We identify three distinct trajectories of social environment change using longitudinal data from thousands of adolescents. Each of these trajectories display diverging baseline, follow-up, and changes in mental health. Additionally, we show distinguishable patterns of brain network organization for each social environment trajectory.
+  
 
 Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint][https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf]
 
