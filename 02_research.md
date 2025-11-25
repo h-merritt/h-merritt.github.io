@@ -44,7 +44,7 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 * **Highlights of Merritt et al.:** We identify three distinct trajectories of social environment change using longitudinal data from thousands of adolescents. Each of these trajectories display diverging baseline, follow-up, and changes in mental health. Additionally, we show distinguishable patterns of brain network organization for each social environment trajectory.
   
 
-Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint][https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf]
+Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf)
 
 
 French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Review). Naturalistic theory of mind measurement localized neural activity and connectivity within single model framework. Network Neuroscience
