@@ -34,14 +34,14 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 * **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults, disentangling the different neural associations of more subjective and more objective social measures.
   
 
-**Merritt, H.**. (In prep). From Interconnection to Interdependence: Toward a Radical Social Neuroscience.
+**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). From Interconnection to Interdependence: Toward a Radical Social Neuroscience.
 
-* **Highlights of Merritt:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for an ontological and methodological shift in perspective from interconnection (i.e., the links between individuals) to interdependence (i.e., while people may be distinguishable we are not separate).
+* **Highlights of Merritt, Bolis, & Teixeira:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for an ontological and methodological shift in perspective from interconnection (i.e., the links between individuals) to interdependence (i.e., while people may be distinguishable we are not separate).
   
 
 **Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Social environment dynamics exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
 
-* **Highlights of Merritt et al.:** We identify three distinct trajectories of social environment change using longitudinal data from thousands of adolescents. Each of these trajectories display diverging baseline, follow-up, and changes in mental health. Additionally, we show distinguishable patterns of brain network organization for each social environment trajectory.
+* **Highlights of Merritt, Gonzalez, & Teixeira:** We identify three distinct trajectories of social environment change using longitudinal data from thousands of adolescents. Each of these trajectories display diverging baseline, follow-up, and changes in mental health. Additionally, we show distinguishable patterns of brain network organization for each social environment trajectory.
   
 
 Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf)
