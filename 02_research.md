@@ -14,16 +14,6 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 ![image](netneuro_schematic.png)
 
 
-**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (In Review). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
-
-* **Highlights of Merritt et al., 2024:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. The outcomes of the stable envirotype were most easily distinguished from those of the improving envirotype, while the unstable envirotype had the worst outcomes.
-
-
-**Merritt, H.**, Mejia, A., & Betzel, R.F. (In Review). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. iScience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
-
-* **Highlights of Merritt et al., 2024:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power for behavior above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
-
-
 **Merritt, H.**, Rakesh, D., & Betzel, R.F. (In Review). Connection & Context: The Neural Architecture of Social Relationships. Neuroscience and Biobehavioral Reviews. [Link to preprint](https://osf.io/preprints/psyarxiv/xvgez_v1)
 
 * **Highlights of Merritt, Rakesh, & Betzel:** We synthesize research across network neuroscience, social neuroscience, and neuroecology to characterize how brain network organization varies across interpersonal social experience. We propose two intersecting mechanistic pathways by why different brain network organization is observed across contexts. An important consequence of this variation across social experience is that the brain network organization that is associated with better (mental) health can look different in different environments. 
@@ -32,16 +22,30 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 **Merritt, H.**, Hughes, C., French, R., Betzel, R.F., & Krendl, A. (In Prep). Multivariate associations between social environment and functional connectivity in older adults.
 
 * **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults, disentangling the different neural associations of more subjective and more objective social measures.
-  
 
-**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). From Interconnection to Interdependence: Toward a Radical Social Neuroscience.
 
-* **Highlights of Merritt, Bolis, & Teixeira:** Our relationships and the support we receive from them impact every facet of our health and wellbeing, yet traditional individualistic approaches to human social neuroscience fall short of capturing how and why this is the case. We review recent literature across subfields of social neuroscience and argue for an ontological and methodological shift in perspective from interconnection (i.e., the links between individuals) to interdependence (i.e., while people may be distinguishable we are not separate).
-  
+**Merritt, H.** & Bolis, D. (In Review). From the Social to the Individual: Human Interdependence Calls for Explanatory Reversal in Mind and Brain. Belgrade Philosophical Annual. 
 
-**Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Social environment dynamics exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
+* **Highlights of Merritt & Bolis:** In this review article, selectively drawing on philosophy of mind, developmental psychology, social neuroscience, neurophysiology and neuroecology, we set out a social-first perspective in which regulation, vulnerability, and agency are shaped through histories of affective, behavioral, and physiological co-regulation, including patterns of attunement, misattunement, and repair. We synthesize findings indicating that interpersonal coordination can shape not only social outcomes but also apparently individual processes, motivating closer attention to social-to-individual pathways across scales. Making these commitments explicit supports a shift from documenting covariation to explaining how interaction reorganizes cognition across minds, bodies, and environments. 
 
-* **Highlights of Merritt, Gonzalez, & Teixeira:** We identify three distinct trajectories of social environment change using longitudinal data from thousands of adolescents. Each of these trajectories display diverging baseline, follow-up, and changes in mental health. Additionally, we show distinguishable patterns of brain network organization for each social environment trajectory.
+
+**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). Intercorporeal Neuroscience: Sociality across Scales.
+
+* **Highlights of Merritt, Bolis, & Teixeira:**  We integrate research from neuroscience, complex systems, philosophy, and cognitive psychology to argue for an ontological and methodological shift for how we study sociality. We propose a multi-scale approach and describe promising methodological techniques that appreciate multi-scale interdependent sociality.  
+
+
+**Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Dynamic social envirotypes exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
+
+* **Highlights of Merritt, Gonzalez, & Teixeira:** We identify three distinct trajectories of social environment change  (i.e., dynamic social envirotypes) using longitudinal data from thousands of adolescents. These dynamic social envirotypes display diverging mental health outcomes and dissociable brain network organization. More than that, the pattern of brain network connectivity associated with better mental health is different for each dynamic social envirotype, challenging normative neural models of mental health.
+
+**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (2026). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
+
+* **Highlights of Merritt et al., 2026:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. The outcomes of the stable envirotype were most easily distinguished from those of the improving envirotype, while the unstable envirotype had the worst outcomes.
+
+
+**Merritt, H.**, Mejia, A., & Betzel, R.F. (2026). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. iScience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
+
+* **Highlights of Merritt et al., 2026:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power for behavior above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
   
 
 Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf)
@@ -52,8 +56,7 @@ French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Review).
 
 **Merritt, H.**, Faskowitz, J., Gonzalez, M.Z., & Betzel, R.F. (2024). Stability and variation of brain-behavior correlation patterns across measures of social support. Imaging Neuroscience. [Link to PDF](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00133/120372). [Preprint](https://doi.org/10.1101/2023.03.23.533966)
 
-* **Highlights of Merritt et al., 2024:** We apply multilayer modeling and modularity maximization to jointly cluster patterns of brainbehavior associations for seven social support measures. We find that the cluster structure of brain-behavior association studies in subcortical and control systems are especially sensitive to different constructs of perceived social support. Network nodes in these systems are highly flexible; their community affiliations differ across social support measures.  The multilayer approach enables direct comparison of the roles of all regions of the brain
-across all social support measures simultaneously, offering a generalizable technique for studying the stability brain-behavior correlations that can be applied in other contexts, such as cognition, behavior, and health.
+* **Highlights of Merritt et al., 2024:** We apply multilayer modeling and modularity maximization to jointly cluster patterns of brainbehavior associations for seven social support measures. We find that the cluster structure of brain-behavior association studies in subcortical and control systems are especially sensitive to different constructs of perceived social support. Network nodes in these systems are highly flexible; their community affiliations differ across social support measures.  These results indicate that brain-behavior correlations vary across brain systems and across operationalizations of the same construct. 
 
 
 Chumin, E., Faskowitz, J., Esfahlani, F.Z., **Merritt, H.**, Tanner, J.C., Cutts, S., Pope, M., Betzel, R.F., & Sporns, O. (2022). Cortico-Subcortical Interactions in Overlapping Communities of Edge Functional Connectivity. NeuroImage, 250, 118971. [Link to PDF](https://www.sciencedirect.com/science/article/pii/S1053811922001008)
