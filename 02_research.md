@@ -51,7 +51,7 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 Poetto, S., **Merritt, H.**, Santoro, A., Rabuffo, G., Battaglia, D., Vaccarino, F., Saggar, M., Brovelli, A., & Petri, G. (2025). The topological architecture of brain identity. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/biorxiv/early/2025/06/21/2025.06.20.660792.full.pdf)
 
 
-French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (In Review). Naturalistic theory of mind measurement localized neural activity and connectivity within single model framework. Network Neuroscience
+French, R., Hughes, C., **Merritt, H.**, Betzel, R.F., & Krendl, A. (2026). Regional activity and interregional functional connectivity uniquely contribute to social cognitive judgements during movie-watching. Network Neuroscience
 
 
 **Merritt, H.**, Faskowitz, J., Gonzalez, M.Z., & Betzel, R.F. (2024). Stability and variation of brain-behavior correlation patterns across measures of social support. Imaging Neuroscience. [Link to PDF](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00133/120372). [Preprint](https://doi.org/10.1101/2023.03.23.533966)
