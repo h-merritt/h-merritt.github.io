@@ -24,14 +24,14 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 * **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults, disentangling the different neural associations of more subjective and more objective social measures.
 
 
-**Merritt, H.** & Bolis, D. (In Review). From the Social to the Individual: Human Interdependence Calls for Explanatory Reversal in Mind and Brain. Belgrade Philosophical Annual. 
+**Merritt, H.** & Bolis, D. (2026). From the Social to the Individual: Human Interdependence Calls for Explanatory Reversal in Mind and Brain. Belgrade Philosophical Annual. [Link to preprint](https://osf.io/m4hpd/files/gcn7w)
 
 * **Highlights of Merritt & Bolis:** In this review article, selectively drawing on philosophy of mind, developmental psychology, social neuroscience, neurophysiology and neuroecology, we set out a social-first perspective in which regulation, vulnerability, and agency are shaped through histories of affective, behavioral, and physiological co-regulation, including patterns of attunement, misattunement, and repair. We synthesize findings indicating that interpersonal coordination can shape not only social outcomes but also apparently individual processes, motivating closer attention to social-to-individual pathways across scales. Making these commitments explicit supports a shift from documenting covariation to explaining how interaction reorganizes cognition across minds, bodies, and environments. 
 
 
-**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). Intercorporeal Neuroscience: Sociality across Scales.
+**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). Methods for MINDS: Multiscale Intercorporeal NeuroDevelopmental Systems.
 
-* **Highlights of Merritt, Bolis, & Teixeira:**  We integrate research from neuroscience, complex systems, philosophy, and cognitive psychology to argue for an ontological and methodological shift for how we study sociality. We propose a multi-scale approach and describe promising methodological techniques that appreciate multi-scale interdependent sociality.  
+* **Highlights of Merritt, Bolis, & Teixeira:**  We integrate research from neuroscience, complex systems, philosophy, and cognitive psychology to argue for an ontological and methodological shift for how we study sociality. We propose a multi-scale approach and describe promising methodological techniques that appreciate multi-scale interdependent sociality, using co-regulation of physiology and affect as a case study.  
 
 
 **Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Dynamic social envirotypes exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
