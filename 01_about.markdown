@@ -14,10 +14,10 @@ Currently, I am the Diversity, Equity, and Inclusion Coordinator for [Women in N
 
 I love to connect with researchers from diverse venues and expand my research horizons, so I regularly share my work at conferences dedicated to the social and developmental sciences (e.g. SANS, SRA), human neuroimaging (e.g. OHBM), complex systems and network science (e.g. NetSci), artificial life (e.g. ALIFE), and more. I collaborate broadly so I can learn from brilliant scholars in various fields and have published on topics as diverse as astropolitics, media studies, psycholinguistics, and developmental psychology. I also seek out diverse training opportunities, including in complex systems (e.g. Sante Fe Institute Complex Systems Summer School, AccelNet-Multinet Meeting, Complex Networks Winter Workshop, Multinet Exchange Fellowship) and other places. 
 
-I have received a variety of awards across fields for my work, including being named an Emerging Scholar in Psychological Science, an NSF Research Traineeship in Complex Networks and Systems, ALIFE 2022 Top 5 Papers, Outstanding Teaching Award, an AccelNet MultiNet Exchange Fellowship, as well as nominations for many other prestigious awards. 
+I have received a variety of awards across fields for my work, including being named an Emerging Scholar in Psychological Science, an NSF Research Traineeship in Complex Networks and Systems, ALIFE 2022 Top 5 Papers, Outstanding Teaching Award, an AccelNet MultiNet Exchange Fellowship, Best Talk Award, numerous travel grants, as well as nominations for many other prestigious awards. 
 
 Before graduate school, I managed a social neuroecology lab at Cornell University. As an undergraduate, I studied Cognitive Science, Linguistics, and Central Eurasian Studies at Indiana University. I have always been thoroughly multidisciplinary :)
 
-Outside of academia, I love reading, painting, and gardening.
+Outside of academia, I love reading, painting, drawing, and gardening.
 
 If you want to get in touch, my email is h.merritt @ nulondon . ac . uk
