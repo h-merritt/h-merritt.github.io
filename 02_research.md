@@ -86,6 +86,6 @@ Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (202
 
 Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (2025). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Journal of Research on Adolescence. [Link to article](https://pubmed.ncbi.nlm.nih.gov/40481712/)
 
-Koch, M.K., **Merritt, H.**, & Mendle, J. (In Review). Sanitized and sexualized: Text Comparison of Puberty in ChatGPT, Television, and Youth. Journal of Youth and Adolescence.
+Koch, M.K., **Merritt, H.**, & Mendle, J. (2026). Sanitized and sexualized: Text Comparison of Puberty in ChatGPT, Television, and Youth. Journal of Youth and Adolescence. Applied Developmental Science. [Link to paper](https://www.tandfonline.com/doi/pdf/10.1080/10888691.2026.2683496)
 
 
