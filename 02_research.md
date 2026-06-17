@@ -5,7 +5,7 @@ permalink: /research/
 order: 2
 ---
 
-I am interested in the origins and outcomes of sociality with an emphasis on experience, environment, interaction, and dynamics. To address this, my work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences. In practice, this looks like pursuing two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan (and I assess the consequences of this variation) using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction and behavior with dynamical models of interacting artificial agents. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Across both angles, I aim to innovate on existing methods to more effectively answer my research questions. 
+I am interested in the origins and outcomes of sociality with an emphasis on experience, environment, interaction, and dynamics. To address this, my work approaches brain science from a humanistic perspective, drawing from biological theory and complex systems science methods, with consequences for the social sciences. In practice, this looks like pursuing two angles of research simultaneously: (1) I identify how human brain network organization varies across social environmental experiences over the lifespan (and I assess the consequences of this variation) using cutting edge analyses from network science and (2) I investigate foundational principles and assumptions of social interaction and behavior with dynamical models of interacting artificial agents and by engaging with contemporary philosophical scholarship. I leverage big data from openly available datasets to appeal broadly to human experience as well as computer simulations to facilitate ground truth understanding. Across both angles, I aim to innovate on existing methods to more effectively answer my research questions. 
 
 Below you'll find a selection of some of my work, and for the projects I'm first author on I provide highlights :) If you are interested in one of my papers but unable to access it for any reason, feel free to email me!
 
@@ -84,8 +84,8 @@ Izquierdo, E., Severino, G., & **Merritt, H.** (2022). Perpetual Crossers withou
 ## Notable Collaborations
 Nomura, K., Rella, S., **Merritt, H.**, Bird, D., Baltussen, M., & Falk, D. (2024). Tipping Points of Space Debris in Low Earth Orbit. International Journal of the Commons, 18(1), 17-31. DOI: 10.5334/ijc.1275. [Link to PDF](https://thecommonsjournal.org/articles/10.5334/ijc.1275)
 
-Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (2025). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Journal of Research on Adolescence. [Link to article](https://pubmed.ncbi.nlm.nih.gov/40481712/)
+Koch, M.K, **Merritt, H.**, McCormick, K., Inniss-Thompson, M., Mendle, J. (2025). Are You There, God? It’s Me, Gender Stereotypes in Coming-of-Age Novels. Journal of Research on Adolescence. [Link to PDF](https://pubmed.ncbi.nlm.nih.gov/40481712/)
 
-Koch, M.K., **Merritt, H.**, & Mendle, J. (2026). Sanitized and sexualized: Text Comparison of Puberty in ChatGPT, Television, and Youth. Journal of Youth and Adolescence. Applied Developmental Science. [Link to paper](https://www.tandfonline.com/doi/pdf/10.1080/10888691.2026.2683496)
+Koch, M.K., **Merritt, H.**, & Mendle, J. (2026). Sentiment, salience, and context: Applying text methods to developmental research using puberty as a case example. Applied Developmental Science. [Link to PDF](https://www.tandfonline.com/doi/pdf/10.1080/10888691.2026.2683496)
 
 
