@@ -24,26 +24,16 @@ Below you'll find a selection of some of my work, and for the projects I'm first
 * **Highlights of Merritt et al.:** We examine associations between functional brain network connectivity and social support and social network organization in older adults, disentangling the different neural associations of more subjective and more objective social measures.
 
 
-**Merritt, H.** & Bolis, D. (2026). From the Social to the Individual: Human Interdependence Calls for Explanatory Reversal in Mind and Brain. Belgrade Philosophical Annual. [Link to preprint](https://osf.io/preprints/psyarxiv/eabr5_v1)
-
-* **Highlights of Merritt & Bolis:** In this review article, selectively drawing on philosophy of mind, developmental psychology, social neuroscience, neurophysiology and neuroecology, we set out a social-first perspective in which regulation, vulnerability, and agency are shaped through histories of affective, behavioral, and physiological co-regulation, including patterns of attunement, misattunement, and repair. We synthesize findings indicating that interpersonal coordination can shape not only social outcomes but also apparently individual processes, motivating closer attention to social-to-individual pathways across scales. Making these commitments explicit supports a shift from documenting covariation to explaining how interaction reorganizes cognition across minds, bodies, and environments. 
-
-
-**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). Methods for MINDS: Multiscale Intercorporeal NeuroDevelopmental Systems.
-
-* **Highlights of Merritt, Bolis, & Teixeira:**  We integrate research from neuroscience, complex systems, philosophy, and cognitive psychology to argue for an ontological and methodological shift for how we study sociality. We propose a multi-scale approach and describe promising methodological techniques that appreciate multi-scale interdependent sociality, using co-regulation of physiology and affect as a case study.  
-
-
 **Merritt, H.**, Gonzalez, M.Z., & Teixeira, A.S. (In prep). Dynamic social envirotypes exhibit distinct trajectories and distinguish both mental health outcomes and brain network organization.
 
 * **Highlights of Merritt, Gonzalez, & Teixeira:** We identify three distinct trajectories of social environment change  (i.e., dynamic social envirotypes) using longitudinal data from thousands of adolescents. These dynamic social envirotypes display diverging mental health outcomes and dissociable brain network organization. More than that, the pattern of brain network connectivity associated with better mental health is different for each dynamic social envirotype, challenging normative neural models of mental health.
 
-**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (2026). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
+**Merritt, H.**, Koch, M.K., Youngheun, J., Chumin, E., & Betzel, R.F. (2026). Social 'envirotyping' the ABCD study contextualizes dissociable brain organization and diverging outcomes. Social Cognitive and Affective Neuroscience. [Link to paper](https://watermark02.silverchair.com/nsag005.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA10wggNZBgkqhkiG9w0BBwagggNKMIIDRgIBADCCAz8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMeIfUFWiWqJn7cJkYAgEQgIIDEA_rRSqfVLa0-dH74dTQiUFVqPazBzj8fh7MmVAqMqv7_5W1i1Fukr1ZZKtPOaz1uxyz6JYplPJXVH3qfX4Kh7sHHskgUdawilQIJBbWPbIN4rhJLii50bs7lrFe-xFwN7mdnGKyrQynkQrEI_nLE6gB7hMVYHs5l9TICocdrZQ-I1gQzZnY9ryXklNauFEboKfUDvdZuTNWYooOm2tgl1N0F5JjlGubwTt9n_igFHGgNGo4hsM8d52U7r_gwovpGikDBkK5jmbOJK0nNl-kbyohNheorjECaGVlKlFTngfHvscAvR2aeEDPGZY-uIPqE9S9Fd0ZEe93733aHLg8QWMbJvB0h85c9o-G90q6eLWj3dyvXr3k3soIB18XGa03fpvNUoJXJBX2UpFYfoMktnTXKERFPbAhpW9ENViCVRRlqCcyHAvB2g_uJj--JctJyhK3pBL8Tk7pghx1J9Py9OWAo75iqwKQ5SmOvGxwEA8xw5CCjaG75n57zXaOXWCkz2WCOztFBl-gnCI_CF3cb6m0mMZ8xwCv9mwprwkc5TBlA8kBH8y8le8uzlNvZB2ynbCLH4yTHrtJEm3BVno9MerEN_2GGXRU9ityjCNlbYs9YYIYTjZUZjctYtLQ3U3olWD1g4utDbteXTkF49AdJxh6pRowyOE3Ta-q7wx89yiJPL7q_5JQ33nqSxVOJxkWDQBWmYyj4c5itILen9BnGfZ9nyJbeta8mvcz_HHGTPdhrB9QzHD3H2o0enHZrkJayH48Jq3E83KESwDL3KSIOQ6hhAvRFI3hVS8r-aGhFz0qvtXD6BlZNa9nmMJ-kDBsQkxi532Mh6xzzpvNF87e4tcEOP3aihEqKT7yXmHkxu72htXcA-wXbpwk-yt7OJTN2OICMp6L4x6F3MK3Hr_mZr3f2Glcf2e1cRrwFIX0JKEVOvm9VuUfGCNT9xg6zrYZ9WcUFzcUW4h7kxjXpk9abwAhaNzQZFi3oXmU2z0vh33ezzfDWB-Bc2lKsZzvwSvi6EiVulXx5Wd70mL1KdOxyBM) [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.20.608873v1.full.pdf).
 
 * **Highlights of Merritt et al., 2026:** We identified different patterns of social environment experience (i.e., "envirotypes"), by hierarchically clustering subjects from the Adolescent Brain Cognitive Development Study. We then applied tools from network neuroscience to show how patterns of whole brain connectivity varied across envirotypes. Differences were distributed across the brain but were especially prominent in Default and Somatomotor Hand systems. Finally, we examined how envirotypes change over development and how these patterns of change are associated with a suite of outcomes. The resulting dynamic envirotypes suggested the dominant patterns of change are high quality stability, instability, improvement, and worsening. The outcomes of the stable envirotype were most easily distinguished from those of the improving envirotype, while the unstable envirotype had the worst outcomes.
 
 
-**Merritt, H.**, Mejia, A., & Betzel, R.F. (2026). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. iScience. [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
+**Merritt, H.**, Mejia, A., & Betzel, R.F. (2026). The dual interpretation of edge time series: Time-varying connectivity versus statistical interaction. iScience. [Link to paper](https://www.cell.com/iscience/fulltext/S2589-0042(26)01324-6) [Link to preprint](https://www.biorxiv.org/content/10.1101/2024.08.29.609259v1.full.pdf)
 
 * **Highlights of Merritt et al., 2026:**  Recently, we developed a technique for tracking rapid (framewise) fluctuations in network connectivity over time. Here, we show that these “edge time series” are mathematically equivalent to interaction terms in a specific family of general linear models. We exploit this fact to further demonstrate that time-varying connectivity carries explanatory power for behavior above and beyond brain activations, suggesting that time-varying connectivity is likely more than a statistical artifact.
   
@@ -66,13 +56,17 @@ Esfahlani, F.Z., Jo, Y., Puxeddu, M.G., **Merritt, H.**, Tanner, J.C., Greenwell
 
 
 
-## Related to Artificial Life
+## Related to Social Interaction
 ![image](bbe_schematic.png)
 
+**Merritt, H.** & Bolis, D. (2026). From the Social to the Individual: Human Interdependence Calls for Explanatory Reversal in Mind and Brain. Belgrade Philosophical Annual. [Link to preprint](https://osf.io/preprints/psyarxiv/eabr5_v1)
 
-**Merritt, H.**, Severino, G.J., & Izquierdo, E.J. (In prep). There Are Many Ways to Be Social: Characterizing Behavioral and Neural Dynamic Diversity of Virtual Social Agents.
+* **Highlights of Merritt & Bolis:** In this review article, selectively drawing on philosophy of mind, developmental psychology, social neuroscience, neurophysiology and neuroecology, we set out a social-first perspective in which regulation, vulnerability, and agency are shaped through histories of affective, behavioral, and physiological co-regulation, including patterns of attunement, misattunement, and repair. We synthesize findings indicating that interpersonal coordination can shape not only social outcomes but also apparently individual processes, motivating closer attention to social-to-individual pathways across scales. Making these commitments explicit supports a shift from documenting covariation to explaining how interaction reorganizes cognition across minds, bodies, and environments. 
 
-* **Highlights of Merritt et al.:** The perceptual crossing paradigm challenges methodological individualism by demonstrating that successful interactions cannot be explained by the behavior or neural dynamics of the individual. Here, we investigate the diversity of individual behavioral strategies and neural dynamics that are a part of successful interactions in evolved social agents. 
+
+**Merritt, H.**, Bolis, D., & Teixeira, A.S. (In prep). Methods for MINDS: Multiscale Intercorporeal NeuroDevelopmental Systems.
+
+* **Highlights of Merritt, Bolis, & Teixeira:**  We integrate research from neuroscience, complex systems, philosophy, and cognitive psychology to argue for an ontological and methodological shift for how we study sociality. We propose a multi-scale approach and describe promising methodological techniques that appreciate multi-scale interdependent sociality, using co-regulation of physiology and affect as a case study.  
 
 
 **Merritt, H.**, Severino, G., & Izquierdo, E. (2023). The Dynamics of Social Interaction among Evolved Model Agents. Artificial Life 29(4), 1-24. [Link to PDF:](https://pubmed.ncbi.nlm.nih.gov/37988679/)
